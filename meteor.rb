@@ -1,3 +1,3 @@
 def hit
-  puts "meteor hit"
+  puts "meteor hit!"
 end
